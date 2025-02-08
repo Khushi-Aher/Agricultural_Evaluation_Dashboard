@@ -21,3 +21,7 @@ The objective of this project is to analyze and compare the Ps Meta and Pm Meta 
 - Yield Performance: Pm Meta shows higher consistency in yield across varying conditions.
 - Growth Rate: Ps Meta grows faster but is more susceptible to pests.
 - Market Value: Pm Meta fetches a slightly better price due to its resilience and shelf life.
+
+
+## 📥 Download the Dashboard
+[Download the Power BI Dashboard]https://github.com/Khushi-Aher/Agricultural_Evaluation_Dashboard/commit/93717d83e0a4ccf344cd06f120e2f76994766ab6
